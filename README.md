@@ -4,7 +4,9 @@ Hey there! Welcome to my Secret Not So Secret Github Profile!
 
 About Me / Fast style
 
-Passionate Web Developer. Love to learn new technologies & tools. Focused on Frontend. Looking to become a Jr. Web Developer. My skills are well-suited for the job. Experienced in many solo projects. LIFE. LONG. LEARNER. 
+HTML, CSS, Javascript, React, Node, MongoDB.
+
+Frontend Stuff
 
  📫  How to reach me: ... <a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer">www.chrisbhansen.com</a>
 
