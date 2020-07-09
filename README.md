@@ -8,6 +8,6 @@ Passionate Web Developer. Love to learn new technologies & tools. Focused on Fro
 
  📫 How to reach me: ... <a href="https://www.chrisbhansen.com" target="_blank">www.chrisbhansen.com</a>
  
- [www.chrisbhansen.com](https://www.chrisbhansen.com){:target="_blank"}
+ [www.chrisbhansen.com](https://www.chrisbhansen.com/?target="_blank")
 
  ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
