@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my Secret Not So Secret Github Profile!
 
-About Me / Fast style
+About Me => Fast style
 
 HTML, CSS, Javascript, React, Node, MongoDB.
 
