@@ -1,4 +1,4 @@
-<img src="./sf-portrait.jpg" alt="My Mug" title="My Mug" width="200" margin="5" align="left" />
+<img src="./sf-portrait.jpg" alt="My Mug" title="My Mug" width="200" margin="5" align="left" border-radius="10" />
 
 Hey there! Welcome to my Secret Not So Secret Github Profile!
 
