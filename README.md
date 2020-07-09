@@ -1,4 +1,4 @@
-<a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="300" align="left" style="marginBottom: 25px" /><a/>
+<a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="300" align="left" style="margin-bottom: 25px" /><a/>
 
 <span style="block">
  
