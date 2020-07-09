@@ -1,4 +1,4 @@
-<a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="500" align="left" margin="5" /><a/>
+<a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="400" align="left" margin="5" /><a/>
 
 Hey there! Welcome to my Secret Not So Secret Github Profile!
 
