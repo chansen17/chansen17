@@ -1,8 +1,8 @@
-<a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="300" align="left" style="margin-bottom: 25px" /><a/>
+<a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="300" align="left" margin="5" /><a/>
 
-<span style="block">
+<span style="block" margin="25px 0">
  
- Hey there! Welcome to my Secret Not So Secret Github Profile!
+Hey there! Welcome to my Secret Not So Secret Github Profile!
 
 About Me --> Fast style
 
