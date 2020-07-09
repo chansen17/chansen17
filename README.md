@@ -1,16 +1,21 @@
-### Hi there 👋
+Hey there!
 
-<!--
-**chansen17/chansen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Secret Not So Secret Github Profile!
 
-Here are some ideas to get you started:
+About Me / Fast and Furious Style:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate Web Developer. Love to learn new technologies & tools. Focused on Frontend. Looking to become a Jr. Web Developer. My skills are well-suited for the job. Experienced in many solo projects. LIFE. LONG. LEARNER. 
+
+- 🔭 I’m currently working on ... Solo projects. Lot's of solo projects. From Frontend UI Design using HTML, CSS , React Frontend Projects, React Fullstack Projects. From Todo Apps to Corona Virus Statistic Tracking Apps!
+
+- 🌱 I’m currently learning ... More React, cos how can you know ALL of React, Databases( MongoDB, SQL ), Gatsby, GraphQP, Design, etc..
+
+- 👯 I’m looking to collaborate on ... I would love to work on an open source project. Just build a website together! A designer maybe? I'll build the frontend? Sounds great to me. 
+
+- 🤔 I’m looking for help with ... Again, Open Source! I wan't to join the Open Source Community. I want to take the deep dive.
+
+- 💬 Ask me about ... My goals 
+
+- 📫 How to reach me: ... www.chrisbhansen.com
+
+- ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
