@@ -12,9 +12,9 @@ Frontend Stuff
 
  ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
  
- <img src="https://github.com/chansen17/chansen17/blob/master/docparrot.gif" alt="doc parrot" style="float:left" />
- <img src="https://github.com/chansen17/chansen17/blob/master/coffeeparrot.gif" alt="coffee parrot" style="float:left" />
- <img src="https://github.com/chansen17/chansen17/blob/master/chillparrot.gif" alt="chill parrot" />
- <img src="https://github.com/chansen17/chansen17/blob/master/cryptoparrot.gif" alt="crypto parrot" />
- <img src="https://github.com/chansen17/chansen17/blob/master/darkbeerparrot.gif" alt="beer parrot" />
- <img src="https://github.com/chansen17/chansen17/blob/master/databaseparrot.gif" alt="database parrot" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/docparrot.gif" alt="doc parrot" align="left" height="20" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/coffeeparrot.gif" alt="coffee parrot" align="left" height="20" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/chillparrot.gif" alt="chill parrot" align="left" height="20"/>
+ <img src="https://github.com/chansen17/chansen17/blob/master/cryptoparrot.gif" alt="crypto parrot" align="left" height="20"/>
+ <img src="https://github.com/chansen17/chansen17/blob/master/darkbeerparrot.gif" alt="beer parrot" align="left" height="20"/>
+ <img src="https://github.com/chansen17/chansen17/blob/master/databaseparrot.gif" alt="database parrot" align="left" height="20"/>
