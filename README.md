@@ -1,4 +1,4 @@
-<img src="./sf-portrait.jpg" alt="My Mug" width="960" />
+<img src="./sf-portrait.jpg" alt="My Mug" width="960" title="My Mug" width="500" height="600" />
 
 Hey there!
 
