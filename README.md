@@ -1,6 +1,8 @@
 <a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/chansen17/chansen17/blob/master/sf-portrait.jpg" alt="My Mug" title="My Mug" width="400" align="left" margin="5" /><a/>
 
-Hey there! Welcome to my Secret Not So Secret Github Profile!
+<span style="block">
+ 
+ Hey there! Welcome to my Secret Not So Secret Github Profile!
 
 About Me --> Fast style
 
@@ -24,4 +26,4 @@ Frontend Stuff
  <img src="https://github.com/chansen17/chansen17/blob/master/metalparrot.gif" alt="metal parrot" align="left" height="20"/>
  <img src="https://github.com/chansen17/chansen17/blob/master/shufflepartyparrot.gif" alt="shuffle parrot" align="left" height="20"/>
  
- 
+ </span>
