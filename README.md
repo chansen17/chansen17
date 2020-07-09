@@ -12,4 +12,10 @@ Frontend Stuff
 
  ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
  
+ <img src="https://github.com/chansen17/chansen17/blob/master/docparrot.gif" alt="chill parrot" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/coffeeparrot.gif" alt="chill parrot" />
  <img src="https://github.com/chansen17/chansen17/blob/master/chillparrot.gif" alt="chill parrot" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/cryptoparrot.gif" alt="chill parrot" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/dabparrot.gif" alt="chill parrot" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/darkbeerparrot.gif" alt="chill parrot" />
+ <img src="https://github.com/chansen17/chansen17/blob/master/databaseparrot.gif" alt="chill parrot" />
