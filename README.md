@@ -6,6 +6,6 @@ About Me / Fast style
 
 Passionate Web Developer. Love to learn new technologies & tools. Focused on Frontend. Looking to become a Jr. Web Developer. My skills are well-suited for the job. Experienced in many solo projects. LIFE. LONG. LEARNER. 
 
-- 📫 How to reach me: ... www.chrisbhansen.com
+ 📫 How to reach me: ... www.chrisbhansen.com
 
-- ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
+ ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
