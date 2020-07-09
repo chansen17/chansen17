@@ -2,7 +2,8 @@
 
 <span style="block" margin-top="25px" >
  
-<h1>Hey there! Welcome to my Secret Not So Secret Github Profile!</h1>
+<h1>Hey there!</h1>
+<h4>Welcome to my Secret Not So Secret Github Profile!</h4>
 
 About Me --> Fast style
 
