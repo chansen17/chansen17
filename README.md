@@ -1,3 +1,5 @@
+<img src="./sf-portrait.jpg" alt="My Mug" style="height: 250px" />
+
 Hey there!
 
 Welcome to my Secret Not So Secret Github Profile!
