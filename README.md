@@ -13,7 +13,7 @@ Frontend Stuff
 
  📫  How to reach me: ... <a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer">www.chrisbhansen.me</a>
 
- ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. 
+ ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. *** UPDATE *** Fullstack Code Bootcamp Graduate!
  
  <img src="https://github.com/chansen17/chansen17/blob/master/docparrot.gif" alt="doc parrot" align="left" height="20" />
  <img src="https://github.com/chansen17/chansen17/blob/master/darkbeerparrot.gif" alt="beer parrot" align="left" height="20"/>
