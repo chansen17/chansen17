@@ -11,7 +11,7 @@ HTML, CSS, Javascript, React, Node, MongoDB.
 
 Frontend Stuff
 
- 📫  How to reach me: ... <a href="https://www.chrisbhansen.com" target="_blank" rel="noopener noreferrer">www.chrisbhansen.me</a>
+ 📫  How to reach me: ... <a href="https://www.chrisbhansen.me" target="_blank" rel="noopener noreferrer">www.chrisbhansen.me</a>
 
  ⚡ Fun fact: ... Soon-to-be Fullstack Code Bootcamp Graduate. *** UPDATE *** Fullstack Code Bootcamp Graduate!
  
