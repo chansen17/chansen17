@@ -32,6 +32,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=cryptodex)](https://github.com/chansen17/cryptodex)
 
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=creditCardPaymentUI)](https://github.com/chansen17/creditCardPaymentUI)
+
 
 ### My Languages and Tools:
 
