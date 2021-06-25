@@ -4,12 +4,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hyggedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchansen17&screen_name=hyggedev)
 
 ## I got the license to do Frontend stuff
-- 👨‍💻  I'm Frontend Developer w/ over 3 years of experience utilizing the most modern and trendy technologies
-- 🎓  Code Bootcamp Graduate - Frontend ~ React Certificate & Mobile Development ~ React Native Certificate
-- 🌊  I’m currently face diving into the JAMstack wave! Next.jS! 🤘
-- ⌨️  2021 Goals: Contribute to open source regulary. So I can see my face on the "Contributors" section. 
-- ⚡️  Fun fact: I'm very much into self empowerment. I'm in AWE with Nature, Geography, Geology, 
+- 👨‍💻  I'm ... A Frontend Developer w/ over 3 years of experience utilizing the most modern and trendy technologies
+- 🎓  I'm ... A Code Bootcamp Graduate w/ Certs in ~ React Frontend Development & React Native Mobile Development 
+- 🌊  I’m ... Currently learning JAMStack. NextJS 🤘
+- ⌨️  My 2021 Goals ... Contribute to open source regulary. So I can see my face on the "Contributors" section. 
+- ⚡️  Fun fact 1: I'm very much into self empowerment. I'm in AWE with Nature, Geography, Geology, 
      Ancient History( Egyptian hieroglyphs... omg), Astronomy, UFO's 🛸, UFO pilots 👾, and Neil deGrasse Tyson. 🤓 So much to learn, not enough ⧖
+- ⚡️  Fun fact 2: I'm half Danish & Korean. So I consume a lot of Hakkebof & Flæskestegt paired with Kimchi which is then chased with Soju. 
  
 ---
 
