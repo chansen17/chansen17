@@ -28,6 +28,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airbnb-clone)](https://github.com/chansen17/airbnb-clone)
 
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=cryptodex)](https://github.com/chansen17/cryptodex)
+
 
 ### My Languages and Tools:
 
