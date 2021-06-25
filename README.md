@@ -22,21 +22,6 @@
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airtable-cms)](https://github.com/chansen17/airtable-cms)
-
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airbnb-clone)](https://github.com/chansen17/airbnb-clone)
-
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=cryptodex)](https://github.com/chansen17/cryptodex)
-
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=creditCardPaymentUI)](https://github.com/chansen17/creditCardPaymentUI)
-
-
 ### My Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -57,6 +42,33 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chansen17&hide=roff)](https://github.com/chansen17/github-readme-stats)
+
+<br/>
+
+---
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airtable-cms)](https://github.com/chansen17/airtable-cms)
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airbnb-clone)](https://github.com/chansen17/airbnb-clone)
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=cryptodex)](https://github.com/chansen17/cryptodex)
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=creditCardPaymentUI)](https://github.com/chansen17/creditCardPaymentUI)
+
+<br />
+<br/>
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Chris Hansen | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -65,10 +77,6 @@
 [<img align="left" alt="Chris Hansen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chris Hansen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br/>
-
----
 
 [website]: https://www.chrisbhansen.me
 [twitter]: https://www.twitter.com/codeSTACKr
