@@ -50,19 +50,19 @@
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airtable-cms)](https://github.com/chansen17/airtable-cms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airtable-cms&theme=tokyonight)](https://github.com/chansen17/airtable-cms)
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airbnb-clone)](https://github.com/chansen17/airbnb-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=airbnb-clone&theme=tokyonight)](https://github.com/chansen17/airbnb-clone)
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=cryptodex)](https://github.com/chansen17/cryptodex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=cryptodex&theme=tokyonight)](https://github.com/chansen17/cryptodex)
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=creditCardPaymentUI)](https://github.com/chansen17/creditCardPaymentUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chansen17&repo=creditCardPaymentUI&theme=tokyonight)](https://github.com/chansen17/creditCardPaymentUI)
 
 <br />
 <br/>
