@@ -5,7 +5,7 @@
 
 ## I got the license to do Frontend stuff
 - 👨‍💻  I'm Frontend Developer w/ over 3 years of experience utilizing the most modern and trendy technologies
-- 🎓  Code Bootcamp Graduate - Frontend ~ React Certifcate & Mobile Development ~ React Native Certificate
+- 🎓  Code Bootcamp Graduate - Frontend ~ React Certificate & Mobile Development ~ React Native Certificate
 - 🌊  I’m currently face diving into the JAMstack wave! Next.jS! 🤘
 - ⌨️  2021 Goals: Contribute to open source regulary. So I can see my face on the "Contributors" section. 
 - ⚡️  Fun fact: I'm very much into self empowerment. I'm in AWE with Nature, Geography, Geology, 
