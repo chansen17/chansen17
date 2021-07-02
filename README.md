@@ -10,7 +10,7 @@
 - ⌨️  My 2021 Goals ... Contribute to open source regulary. So I can see my face on the "Contributors" section. 
 - ⚡️  Fun fact 1: I'm very much into self empowerment. I'm in AWE with Nature, Geography, Geology, 
      Ancient History( Egyptian hieroglyphs... omg), Astronomy, UFO's 🛸, UFO pilots 👾, and Neil deGrasse Tyson. 🤓 So much to learn, not enough ⧖
-- ⚡️  Fun fact 2: I'm half Danish & Korean. So I consume a lot of Hakkebof & Flæskestegt paired with Kimchi which is then chased with Soju. 
+- ⚡️  Fun fact 2: I'm half Danish & Korean. So I consume a lot of Hakkebof & Flæskestegt paired with Kimchi which is appropriately chased with Soju. 
  
 ---
 
