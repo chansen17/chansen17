@@ -7,11 +7,9 @@
 - 👨‍💻  I'm ... A Frontend Developer w/ over 2 years of experience utilizing the most modern frontend technologies
 - 🎓  I'm ... A Code Bootcamp Graduate w/ Certs in ~ React Frontend Development & React Native Mobile Development 
 - 🌊  I’m ... Currently learning JAMStack. NextJS 🤘
-- ⌨️  My 2021 Goals ... Contribute to open source regulary. So I can see my face on the "Contributors" section. 
-- ⚡️  Fun fact 1: I'm very much into self empowerment. I'm in AWE with Nature, Geography, Geology, 
-     Ancient History( Egyptian hieroglyphs... omg), Astronomy, UFO's 🛸, UFO pilots 👾, and Neil deGrasse Tyson. 🤓 So much to learn, not enough ⧖
-- ⚡️  Fun fact 2: I'm half Danish & Korean. So I consume a lot of Hakkebof & Flæskestegt paired with Kimchi which is appropriately chased with Soju. 
- 
+- ⌨️  My 2021 Goals ... Contribute to open source regulary. I wan't to make it to the contributors section. 
+- ⚡️  Fun fact 1: I'm very much into self empowerment and the path of a life long learner. I like to be in and read about nature, geography, geology, 
+     astronomy, UFO's 🛸, UFO pilots 👾, and Neil deGrasse Tyson. 🤓 So much to learn, not enough ⧖
 ---
 
 <!-- ### Spotify Playing 🎧
