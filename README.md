@@ -80,7 +80,6 @@
 
 
 [website]: https://www.chrisbhansen.me
-[twitter]: https://www.twitter.com/codeSTACKr
-[youtube]: https://www.youtube.com/channel/UCoOIzHe6x06ZcEhllL8K0Aw
+[twitter]: https://www.twitter.com/hyggedev
 [instagram]: https://www.instagram.com/hyggedev
 [linkedin]: https://www.linkedin.com/in/hyggedev/
