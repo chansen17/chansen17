@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hyggedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchansen17&screen_name=hyggedev)
 
 ## I got the license to do Frontend stuff
-- 👨‍💻  I'm ... A Frontend Developer w/ over 3 years of experience utilizing the most modern and trendy technologies
+- 👨‍💻  I'm ... A Frontend Developer w/ over 2 years of experience utilizing the most modern and trendy technologies
 - 🎓  I'm ... A Code Bootcamp Graduate w/ Certs in ~ React Frontend Development & React Native Mobile Development 
 - 🌊  I’m ... Currently learning JAMStack. NextJS 🤘
 - ⌨️  My 2021 Goals ... Contribute to open source regulary. So I can see my face on the "Contributors" section. 
