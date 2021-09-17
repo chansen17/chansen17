@@ -77,7 +77,7 @@
 [<img align="left" alt="Chris Hansen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://www.chrisbhansen.me
+[website]: https://www.chrisbhansen.com
 [twitter]: https://www.twitter.com/hyggedev
 [instagram]: https://www.instagram.com/hyggedev
 [linkedin]: https://www.linkedin.com/in/hyggedev/
