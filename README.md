@@ -7,7 +7,7 @@
 - 👨‍💻  I'm ... A Frontend Developer w/ over 2 years of experience utilizing the most modern frontend technologies
 - 🎓  I'm ... A Code Bootcamp Graduate w/ Certs in ~ React Frontend Development & React Native Mobile Development 
 - 🌊  I’m ... Currently learning JAMStack. NextJS 🤘
-- ⌨️  My 2021 Goals ... Contribute to open source regulary. I wan't to make it to the contributors section. 
+- ⌨️  My 2021 Goals ... Contribute to open source. Launch a small start-up, free & paid. 
 - ⚡️  Fun fact 1: I'm very much into self empowerment and the path of a life long learner. I like to be in or read about nature, geography, geology, 
      astronomy, UFO's 🛸, UFO pilots 👾, and Neil deGrasse Tyson. 🤓 So much to learn, not enough ⧖
 ---
