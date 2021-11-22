@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=chrisbhansen.com&style=for-the-badge&url=https%3A%2F%2Fwww.chrisbhansen.com)](https://www.chrisbhansen.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hyggedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchansen17&screen_name=hyggedev)
 
+<a href="https://app.daily.dev/hyggedev"><img src="https://api.daily.dev/devcards/a5e6bdf7bc574c9d8612c7722c6033af.png?r=j2m" width="400" alt="Chris Hansen's Dev Card"/></a>
+
 ## I got the license to do Frontend stuff
 - 👨‍💻  I'm ... A Frontend Developer w/ over 2 years of experience utilizing the most modern frontend technologies
 - 🎓  I'm ... A Code Bootcamp Graduate w/ Certs in ~ React Frontend Development & React Native Mobile Development 
